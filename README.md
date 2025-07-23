@@ -1,25 +1,33 @@
 # Hi, I’m Lighbit 👋
 
-🚀 Founder & Lead Developer of  
-- [DearMeApp](https://dearmeapp.id) — AI-powered journaling for emotional clarity  
-- [Blinq](https://blinq.id) — daily mindful health tracker for modern life  
-- [DearMoney](https://dearmoney.id) — (upcoming) finance self-care companion
+I’m a founder, Leader, fullstack engineer & product builder passionate about technology that *feels personal and truly helps*.
 
-👨‍💻 I’m actively building apps in  
-- **Flutter** (Web, Android, iOS)  
-- **Go** (Gin, GORM)  
-- **Java Spring Boot** (for scalable core banking systems)  
+---
 
-🏦 My experience includes working with  
-banks, manufacturers, food-tech, and SME-focused startups in Indonesia.
+🚀 **Founder & Lead Developer** of  
+- [Blinq Life](https://blinq.id) — Daily mindful health tracker for modern life  
+- [DearMe ✨](https://dearmeapp.id) — AI-powered journaling for emotional clarity  
+- [DearMoney ✨](https://dearmoney.id) — Finance self-care companion  
 
-🧠 I’m focused on  
-- Clean architecture & DDD  
-- Secure backend API design  
-- Event-driven systems & message queues  
-- AI-powered user experience with emotional context
+🍱 **Food Products I build & love**  
+- [Riuh Nasi Liwet](https://riuh.my.id) — homemade culinary brand rooted in memory & mood  
+- [Edelbox](https://edelbox.id) — curated fine food experiences for modern professionals
 
-📫 Reach out: [LinkedIn @zulkarnaen](https://www.linkedin.com/in/zulkarnaen-97a575163/)
+---
+
+🧠 I build with:  
+- **Flutter** for cross-platform mobile/web  
+- **Go (Gin, GORM)** for efficient backend APIs  
+- **Java Spring Boot** for scalable financial systems  
+- **Event-driven systems**, **clean architecture**, and **DDD**
+
+🏦 I’ve worked with banking cores, fintech, manufacturing & health-tech startups.  
+I care deeply about user emotion, seamless flows, and data ownership.
+
+---
+
+📫 Let’s connect: [LinkedIn @zulkarnaen](https://www.linkedin.com/in/zulkarnaen-97a575163/)
+📍 Based in Indonesia — building tools that matter.
 
 ---
 
