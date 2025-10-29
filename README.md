@@ -35,7 +35,7 @@ Most of my work ships on Play Store and runs fully on-device, not in the cloud.
 - **DearMoney 🪙**  
   Personal finance companion for budgeting and spending control.  
   • Track income, expenses, recurring bills, and cash flow  
-  • Smart reminders so tagihan nggak kelewat  
+  • Smart reminders so you don't miss your bill
   • Visual breakdown of where your money actually goes  
   Keywords: `budget tracker`, `expense tracker`, `money manager`, `bill reminder`
 
