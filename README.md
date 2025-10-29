@@ -6,14 +6,11 @@ I build products that respect attention, emotion, and privacy.
 ---
 
 🚀 **Founder & Lead Developer of**
-- **DearMusic 🎧** — Offline hi-res music player with smart listening analytics.  
-  - Local-only playback (no account required)  
-  - Smart Autoplay that learns your habits and keeps the vibe, not random shuffle  
-  - Lyric view, FLAC/hi-res detail, usage insights, end-of-year style stats  
-  - Custom in-app UI: adaptive blur backgrounds, dynamic theming, player-grade transitions
 - [Blinq Life](https://blinq.id) — Daily mindful health tracker for mood, body, energy, routines  
 - [DearMe ✨](https://dearmeapp.id) — AI-supported journaling for clarity and self-reflection  
-- [DearMoney ✨](https://dearmoney.id) — Personal finance companion for budgeting, spending control, and bill automation  
+- [DearMoney 🪙](https://dearmoney.id) — Personal finance companion for budgeting, spending control, and bill automation
+- [DearGod 🕌](https://deargod.id) — Faith & routine assistant.
+- [DearMusic 🎧](https://dearmusic.id) — Offline hi-res music player with smart listening analytics.  
 
 🍱 **Food products I build & run**
 - [Riuh Nasi Liwet](https://riuh.my.id) — home-style rice set built around nostalgia and comfort  
