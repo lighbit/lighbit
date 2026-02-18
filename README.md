@@ -1,4 +1,4 @@
-# Hi, I’m Zulka 👋
+# Hi, I’m lighbit 👋
 
 Founder, product lead, and fullstack engineer.  
 I build products that respect attention, emotion, and privacy.
